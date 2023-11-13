@@ -1,0 +1,22 @@
+{
+  "course_name": "Big-O Notation For Coding Interviews and Beyond - Learn Interactively",
+  "course_overview": "This course is intended for professionals that lack formal education in computer science, and that are in search of a simple and practical guide to algorithmic complexity. The course explains the concepts in layman's terms, and teaches how to reason about the complexity of algorithms without requiring one to have an extensive mathematical skillset. This course can also be handy for revising complexity concepts or Big-O analysis before interviews. Finally, the content also scratches the surface of some advanced analysis topics to provide a more encompassing image of the complexity theory.",
+  "course_folder": "big o notation for coding interviews and beyond",
+  "course_lessons": [
+    "0-introduction",
+    "1-need for speed",
+    "2-analyzing algorithms",
+    "3-analyzing algorithms part ii",
+    "4-analyzing algorithms part iii",
+    "5-problem set 1",
+    "6-functions and their growth",
+    "7-theta notation",
+    "8-big o and big omega notations",
+    "9-small omega and small o notations",
+    "10-problem set 2",
+    "11-solution set 2",
+    "12-recurrence",
+    "13-recurrence part ii",
+    "14-binary search recursive implementation"
+  ]
+}
